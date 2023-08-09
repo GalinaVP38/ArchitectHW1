@@ -14,7 +14,7 @@ public class Flash {
      //поворот на угол
    
     public void Rotate(Angle3D angleAction) {
-
+        
     }
      //перемещение к точке  
     public void Move(Point3D pointAction){
