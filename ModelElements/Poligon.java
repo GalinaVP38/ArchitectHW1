@@ -13,3 +13,4 @@ public class Poligon {
         points.add(point);
     
 }
+}
