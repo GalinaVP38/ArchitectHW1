@@ -1,8 +1,9 @@
 package ModelElements;
 
-import Stuff.Angle3D;
 import java.awt.*;
-import Stuff.Point3D;
+
+import Attribute.Angle3D;
+import Attribute.Point3D;
 
 public class Flash {
     public Point3D Location;

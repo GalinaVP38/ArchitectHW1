@@ -1,4 +1,4 @@
-package Stuff;
+package Attribute;
 
 public class Color {
     

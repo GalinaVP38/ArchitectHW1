@@ -1,7 +1,7 @@
 package ModelElements;
 
-import Stuff.Angle3D;
-import Stuff.Point3D;
+import Attribute.Angle3D;
+import Attribute.Point3D;
 
 public class Camera {
     public Point3D Location;

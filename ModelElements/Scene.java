@@ -1,9 +1,9 @@
 package ModelElements;
 
-import Stuff.Type;
-
 import java.util.ArrayList;
 import java.util.List;
+
+import Attribute.Type;
 
 public class Scene {
      public int ID;
